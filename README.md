@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soloshowdown/soloshowdown-assets/main/animated-banner.gif" alt="Animated Banner" style="width:100%;"/>
+</p>
+
 # Hi there, I'm soloshowdown 👋
 
 I'm a passionate **Full Stack AI Web Developer** with a strong focus on creating innovative, scalable, and delightful digital experiences. I love building end-to-end solutions, integrating AI, automation, and interactive 3D/visual elements into modern web applications.
