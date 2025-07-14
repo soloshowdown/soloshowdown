@@ -1,53 +1,67 @@
+<!-- Banner with animated background -->
 <p align="center">
-  <img src="https://readme-animated-background.vercel.app/api/wave?colorA=6ee7b7&colorB=3b82f6&height=150&speed=0.7" alt="animated svg" />
+  <img src="https://i.pinimg.com/originals/f9/1e/b9/f91eb994107fb42b655c58c3a3d1e77e.gif" alt="header" width="100%" />
 </p>
 
-# Hi there, I'm soloshowdown 👋
-
-I'm a passionate **Full Stack AI Web Developer** with a strong focus on creating innovative, scalable, and delightful digital experiences. I love building end-to-end solutions, integrating AI, automation, and interactive 3D/visual elements into modern web applications.
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,nodejs,express,js,python,cpp,mongodb,mysql,prisma,firebase,supabase,gcp,materialui,threejs" alt="Tech Stack Logos" />
-</p>
-
-- **Frontend:**  
-  React.js, Next.js, Tailwind CSS, shadcn/ui, Material UI, Three.js, Spline 3D, GSAP
-
-- **Backend:**  
-  Node.js, Express.js, TypeScript
-
-- **Databases & ORM:**  
-  MongoDB, MySQL, Prisma
-
-- **Cloud Platforms:**  
-  Google Cloud Platform (GCP), Firebase, Supabase
-
-- **Automation & AI Tools:**  
-  n8n, CrewAI, Bolt.AI, Cursor AI, Lovable.dev
-
-- **Other Languages:**  
-  C++, Python
-
-- **Currently Learning:**  
-  Machine Learning (ML), MLOps
-
-## 🛠️ What I Do
-
-- Build modern, responsive, and beautiful web applications
-- Integrate AI and automation into web products
-- Design robust backends and APIs
-- Implement real-time and interactive 3D/visual experiences
-- Work with cloud, scalable databases, and serverless architectures
-- Love to vibe and code with Bolt.AI, Cursor AI, and Lovable.dev communities
-
-## 🌱 Currently Exploring
-
-- Advancing my skills in Machine Learning and MLOps
-- Experimenting with new AI-driven cloud and automation workflows
-- Building more interactive, immersive web experiences
+<h1 align="center">Hi 👋, I'm Kunal</h1>
+<h3 align="center">🚀 Full Stack AI Web Developer | ML & MLOps Enthusiast</h3>
 
 ---
 
-*Open to collaborations, freelance projects, and exciting opportunities!*
+🌐 I work with cutting-edge technologies to build AI-powered full-stack applications that feel modern, fast, and beautiful.
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql,prisma" />
+  <br/>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,vite,vscode,python,cpp" />
+</p>
+
+---
+
+### ⚙️ Favorite Tools & Libraries
+
+- 🌟 **UI/UX**: Shadcn UI, Material UI, GSAP, Spline 3D, Three.js  
+- 🔄 **Automation & AI Agents**: n8n, Crew AI, Bolt.ai, Cursor AI, Lovable.dev  
+- ⚡ **Design Philosophy**: Sleek, responsive, animated, modular
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-yourusername&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-yourusername&layout=compact&theme=radical" />
+</p>
+
+---
+
+### ✨ Cool Background
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fb/96/33/fb9633e9d4a2d0d4a96c0b87ee969229.gif" width="100%" />
+</p>
+
+---
+
+### 🤝 Let’s Build Together
+
+- 💡 Exploring ideas in **ML**, **MLOps**, **Generative AI**
+- 📬 DM me for collabs or freelance work
+
+> *"Code like a human, automate like a machine."*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+cool+AI+apps;Learning+MLOps;Always+Shipping+Projects!&font=Fira%20Code&center=true&width=435&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</p>
