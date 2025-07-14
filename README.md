@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soloshowdown/soloshowdown-assets/main/animated-banner.gif" alt="Animated Banner" style="width:100%;"/>
+  <img src="https://readme-animated-background.vercel.app/api/wave?colorA=6ee7b7&colorB=3b82f6&height=150&speed=0.7" alt="animated svg" />
 </p>
 
 # Hi there, I'm soloshowdown 👋
