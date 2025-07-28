@@ -66,3 +66,5 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/fb/96/33/fb9633e9d4a2d0d4a96c0b87ee969229.gif" width="100%" />
 </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=soloshowdown&theme=tokyonight&hide_border=false&area=true&radius=10&color=58A6FF" width="100%"/> </p>
