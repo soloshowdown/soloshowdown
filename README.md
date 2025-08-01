@@ -67,4 +67,4 @@
   <img src="https://i.pinimg.com/originals/fb/96/33/fb9633e9d4a2d0d4a96c0b87ee969229.gif" width="100%" />
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=soloshowdown&theme=react-dark&hide_border=false&area=true&radius=10&color=00FF7F" width="100%" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=soloshowdown&theme=github-compact&custom_title=soloshowdown%20-%20Shipping%20Innovation%20Daily&hide_border=true&area=true&area_color=00ff7f20&line=00ff7f&point=ffffff90" width="100%" /> </p>
