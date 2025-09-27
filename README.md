@@ -3,18 +3,12 @@
   <img src="https://i.pinimg.com/originals/89/2b/fb/892bfb7a469678cfd88a9ab65b50d72f.gif" alt="Animated Tech Banner" width="100%" />
 </p>
 
-<!-- Top-right floating GIF -->
-<p align="right">
-  <img src="dbz.gif" alt="DBZ Gif" width="200" />
-</p>
+
 
 <h1 align="center">Hey there 👋, I'm Kunal (aka SoloShowdown)</h1>
 <h3 align="center">🚀 Full Stack AI Web Developer | ML & MLOps Explorer | Creative Tech Enthusiast</h3>
 
-<!-- DBZ GIF below intro -->
-<p align="center">
-  <img src="dbz.gif" alt="DBZ Gif" width="250" />
-</p>
+
 ---
 
 🌐 I build futuristic, AI-powered full-stack applications using bleeding-edge technologies and beautiful UI/UX practices.
@@ -87,3 +81,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=soloshowdown&color=blue&style=for-the-badge)
 
+<!-- DBZ GIF at the very bottom -->
+<p align="center">
+  <img src="dbz.gif" alt="DBZ Gif" width="380" />
+</p>
