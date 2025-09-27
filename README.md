@@ -80,7 +80,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=soloshowdown&color=blue&style=for-the-badge)
 
-<!-- DBZ GIF at the very bottom -->
-<p align="center">
-  <img src="dbz.gif" alt="DBZ Gif" width="380" />
-</p>
+
