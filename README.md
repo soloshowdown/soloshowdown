@@ -1,8 +1,7 @@
-<!-- 🧠 Animated Banner -->
+<!-- 🔥 Goku Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/89/2b/fb/892bfb7a469678cfd88a9ab65b50d72f.gif" alt="Animated Tech Banner" width="100%" />
+  <img src="goku.gif" alt="Goku Banner" width="100%" />
 </p>
-
 
 
 <h1 align="center">Hey there 👋, I'm Kunal (aka SoloShowdown)</h1>
