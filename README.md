@@ -13,7 +13,7 @@
 
 <!-- DBZ GIF below intro -->
 <p align="center">
-  <img src="assets/dbz.gif" alt="DBZ Gif" width="250" />
+  <img src="dbz.gif" alt="DBZ Gif" width="250" />
 </p>
 ---
 
