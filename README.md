@@ -11,6 +11,10 @@
 <h1 align="center">Hey there 👋, I'm Kunal (aka SoloShowdown)</h1>
 <h3 align="center">🚀 Full Stack AI Web Developer | ML & MLOps Explorer | Creative Tech Enthusiast</h3>
 
+<!-- DBZ GIF below intro -->
+<p align="center">
+  <img src="assets/dbz.gif" alt="DBZ Gif" width="250" />
+</p>
 ---
 
 🌐 I build futuristic, AI-powered full-stack applications using bleeding-edge technologies and beautiful UI/UX practices.
