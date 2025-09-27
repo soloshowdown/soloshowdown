@@ -3,6 +3,9 @@
   <img src="https://i.pinimg.com/originals/89/2b/fb/892bfb7a469678cfd88a9ab65b50d72f.gif" alt="Animated Tech Banner" width="100%" />
 </p>
 
+<img src="dbz.gif" alt="DBZ Gif" align="right" width="200" style="margin-top:20px;" />
+
+
 <h1 align="center">Hey there 👋, I'm Kunal (aka SoloShowdown)</h1>
 <h3 align="center">🚀 Full Stack AI Web Developer | ML & MLOps Explorer | Creative Tech Enthusiast</h3>
 
