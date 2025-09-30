@@ -5,35 +5,50 @@
 
 
 <h1 align="center">Hey there 👋, I'm Kunal (aka SoloShowdown)</h1>
-<h3 align="center">🚀 Full Stack AI Web Developer | ML & MLOps Explorer | Creative Tech Enthusiast</h3>
+<h3 align="center">🤖 Machine Learning Engineer | ⚡ Algo Trader & Quant Dev | 🛠 Backend & Systems Explorer</h3>
 
 
 ---
 
-🌐 I build futuristic, AI-powered full-stack applications using bleeding-edge technologies and beautiful UI/UX practices.
+🌐 I design intelligent systems, build scalable ML pipelines, and explore algorithmic trading strategies.  
+⚡ Passionate about **backend engineering, ML/AI, MLOps, and quantitative finance** with a curious dive into **Rust & low-latency systems**.
 
 ---
 
-### ⚙️ My Tech Stack
+### ⚙️ My Core Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+  <!-- Programming & ML -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,rust" />
   <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql,prisma" />
+  <!-- Data & ML Tools -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,kubernetes" />
   <br/>
-  <!-- Tools & Languages -->
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,vite,vscode,python,cpp" />
+  <!-- Databases & Infra -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,gcp" />
+  <br/>
+  <!-- Web (support skills) -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs" />
 </p>
 
 ---
 
-### 🧩 Favorite Tools & Libraries
+### 📊 Finance & Quant Dev Tools
 
-- 🎨 UI/UX: **Tailwind CSS**, **Shadcn UI**, **Material UI**, **GSAP**, **Spline 3D**, **Three.js**
-- 🤖 AI Agents & Automation: **n8n**, **Crew AI**, **Bolt.ai**, **Cursor AI**, **Lovable.dev**
-- 🧠 Currently Learning: **ML**, **MLOps**, **LLMs**
+- 📈 **Trading Libraries**: `Backtrader`, `QuantConnect`, `ccxt`  
+- 📊 **Data Analysis**: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`  
+- 🔢 **Math & Optimization**: `SciPy`, `cvxpy`  
+- 🧮 **Financial Models**: Monte Carlo Simulations, Time-Series Forecasting, Risk Management  
+- ⚡ Building & testing trading strategies with **Python/C++/Go**  
+
+---
+
+### 🧩 Current Focus & Learning
+
+- 📈 **Algo Trading & Quant Dev** – writing strategies in Python/C++/Go, optimizing for speed & accuracy  
+- 🤖 **ML & MLOps** – model training, deployment pipelines, scalable AI apps  
+- ⚡ **Backend Engineering** – distributed systems, APIs, high-performance services  
+- 🦀 Exploring **Rust** for systems programming and low-latency apps  
 
 ---
 
@@ -49,18 +64,18 @@
 ### ✨ Current Vibe
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+code+with+coffee+and+clouds.;Building+AI+apps+with+Next.js+and+n8n.;Let's+ship+some+magic!&font=Fira+Code&center=true&width=600&height=45&color=FFA07A&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Optimizing+trading+algorithms.;Deploying+scalable+ML+pipelines.;Exploring+Rust+for+performance.;Backend+before+Frontend.;Data+driven+decision+making!&font=Fira+Code&center=true&width=700&height=45&color=FFA07A&vCenter=true&size=24" />
 </p>
 
 ---
 
 ### 🔗 Let's Connect
 
-- 🧠 DM for collaboration on AI/ML or creative web projects  
-- 🔨 Love building ✨ real-world ✨ apps with real impact  
-- 🌱 Always open to learning & vibing on Cursor AI / Lovable.dev  
+- 📊 Open to collaboration in **ML, Algo Trading, Quant Dev, and Backend AI projects**  
+- ⚡ Believe in **high-performance systems & automation**  
+- 🌱 Always learning — **Rust, advanced ML, system design**  
 
-> _“Code hard. Dream bigger. Automate everything.”_
+> _“Code hard. Trade smart. Automate everything.”_
 
 ---
 
@@ -69,7 +84,7 @@
   <img src="https://i.pinimg.com/originals/fb/96/33/fb9633e9d4a2d0d4a96c0b87ee969229.gif" width="100%" />
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=soloshowdown&theme=github-compact&custom_title=soloshowdown%20-%20Shipping%20Innovation%20Daily&hide_border=true&area=true&area_color=00ff7f20&line=00ff7f&point=ffffff90" width="100%" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=soloshowdown&theme=github-compact&custom_title=soloshowdown%20-%20Experimenting%20Daily%20with%20ML%20%26%20Quant%20Trading&hide_border=true&area=true&area_color=00ff7f20&line=00ff7f&point=ffffff90" width="100%" /> </p>
 
 ## 📊 GitHub Streak
 
@@ -79,5 +94,3 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=soloshowdown&color=blue&style=for-the-badge)
-
-
