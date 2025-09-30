@@ -33,6 +33,16 @@
 
 ---
 
+### 🤖 AI Engineer Tools & Platforms
+
+- 🧠 **AI Frameworks**: Hugging Face, LangChain, OpenAI APIs  
+- 🔗 **Automation & Orchestration**: n8n, CrewAI, AutoGPT, Bolt.ai  
+- ☁️ **Deployment & Serving**: FastAPI, Flask, Gradio, Streamlit  
+- 📦 **MLOps**: MLflow, Weights & Biases, DVC  
+- 🌍 **Experimentation**: fine-tuning LLMs, building AI agents, and deploying inference APIs  
+
+---
+
 ### 📊 Finance & Quant Dev Tools
 
 - 📈 **Trading Libraries**: `Backtrader`, `QuantConnect`, `ccxt`  
