@@ -84,7 +84,10 @@
   <img src="https://i.pinimg.com/originals/fb/96/33/fb9633e9d4a2d0d4a96c0b87ee969229.gif" width="100%" />
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=soloshowdown&theme=github-compact&custom_title=soloshowdown%20-%20Experimenting%20Daily%20with%20ML%20%26%20Quant%20Trading&hide_border=true&area=true&area_color=00ff7f20&line=00ff7f&point=ffffff90" width="100%" /> </p>
+<!-- Updated GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soloshowdown&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 ## 📊 GitHub Streak
 
