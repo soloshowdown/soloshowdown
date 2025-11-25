@@ -24,17 +24,7 @@
 
 ---
 
-### 🤖 AI Engineer Tools & Platforms
 
-- 🧠 **AI Frameworks**: Hugging Face, LangChain, OpenAI APIs  
-- 🔗 **Automation & Orchestration**: n8n, CrewAI, AutoGPT, Bolt.ai  
-- ☁️ **Deployment & Serving**: FastAPI, Flask, Gradio, Streamlit  
-- 📦 **MLOps**: MLflow, Weights & Biases, DVC  
-- 🌍 **Experimentation**: fine-tuning LLMs, building AI agents, and deploying inference APIs  
-
----
-
----
 
 ### 📊 GitHub Stats
 
@@ -43,25 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloshowdown&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=58A6FF&text_color=E0E0E0&bg_color=0D1117" width="48%" />
 </p>
 
----
-
-### ✨ Current Vibe
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Optimizing+trading+algorithms.;Deploying+scalable+ML+pipelines.;Exploring+Rust+for+performance.;Backend+before+Frontend.;Data+driven+decision+making!&font=Fira+Code&center=true&width=700&height=45&color=FFA07A&vCenter=true&size=24" />
-</p>
-
----
-
-### 🔗 Let's Connect
-
-- 📊 Open to collaboration in **ML, Algo Trading, Quant Dev, and Backend AI projects**  
-- ⚡ Believe in **high-performance systems & automation**  
-- 🌱 Always learning — **Rust, advanced ML, system design**  
-
-> _“Code hard. Trade smart. Automate everything.”_
-
----
 
 <!-- Cool footer image -->
 <p align="center">
