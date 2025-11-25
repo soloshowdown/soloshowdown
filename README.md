@@ -4,15 +4,6 @@
 </p>
 
 
-<h1 align="center">Hey there 👋, I'm Kunal (aka SoloShowdown)</h1>
-<h3 align="center">🤖 Machine Learning Engineer | ⚡ Algo Trader & Quant Dev | 🛠 Backend & Systems Explorer</h3>
-
-
----
-
-🌐 I design intelligent systems, build scalable ML pipelines, and explore algorithmic trading strategies.  
-⚡ Passionate about **backend engineering, ML/AI, MLOps, and quantitative finance** with a curious dive into **Rust & low-latency systems**.
-
 ---
 
 ### ⚙️ My Core Tech Stack
@@ -42,23 +33,6 @@
 - 🌍 **Experimentation**: fine-tuning LLMs, building AI agents, and deploying inference APIs  
 
 ---
-
-### 📊 Finance & Quant Dev Tools
-
-- 📈 **Trading Libraries**: `Backtrader`, `QuantConnect`, `ccxt`  
-- 📊 **Data Analysis**: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`  
-- 🔢 **Math & Optimization**: `SciPy`, `cvxpy`  
-- 🧮 **Financial Models**: Monte Carlo Simulations, Time-Series Forecasting, Risk Management  
-- ⚡ Building & testing trading strategies with **Python/C++/Go**  
-
----
-
-### 🧩 Current Focus & Learning
-
-- 📈 **Algo Trading & Quant Dev** – writing strategies in Python/C++/Go, optimizing for speed & accuracy  
-- 🤖 **ML & MLOps** – model training, deployment pipelines, scalable AI apps  
-- ⚡ **Backend Engineering** – distributed systems, APIs, high-performance services  
-- 🦀 Exploring **Rust** for systems programming and low-latency apps  
 
 ---
 
