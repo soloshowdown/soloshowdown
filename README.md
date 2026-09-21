@@ -6,21 +6,7 @@
 
 ---
 
-### ⚙️ My Core Tech Stack
 
-<p align="center">
-  <!-- Programming & ML -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,rust" />
-  <br/>
-  <!-- Data & ML Tools -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,kubernetes" />
-  <br/>
-  <!-- Databases & Infra -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,gcp" />
-  <br/>
-  <!-- Web (support skills) -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs" />
-</p>
 
 ---
 
